@@ -2,4 +2,4 @@
 """Prints a ``Hello World`` statement."""
 
 
-print "Hello Derrick Naminda!"
+print "Hello derricknaminda!"
